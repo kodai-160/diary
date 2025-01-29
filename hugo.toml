@@ -1,8 +1,0 @@
-baseURL = 'https://kodai-160.github.io/diary/'
-languageCode = "ja-jp"
-title = 'kodaiの日記'
-theme = 'github-style'
-publishDir = "public"
-
-[params]
-  headerIcon = 'images/icon.png'
