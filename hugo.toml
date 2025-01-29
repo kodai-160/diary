@@ -1,4 +1,4 @@
-baseURL = 'https://kodai-160.github.io/diary/'
+baseURL = 'https://kodai-160.github.io/'
 languageCode = "ja-jp"
 title = 'kodaiの日記'
 theme = 'github-style'
